@@ -1,3 +1,6 @@
 # Go microservices
 
-Fullstack Parser app with frontend on Vue 3, Services on Go and Node
+Fullstack Parser app:   
+Frontend - Vue 3   
+Services - Go and Node   
+DB - MongoDB
